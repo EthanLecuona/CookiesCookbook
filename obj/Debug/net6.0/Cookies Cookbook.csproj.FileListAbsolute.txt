@@ -1,0 +1,15 @@
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\bin\Debug\net6.0\Cookies Cookbook.exe
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\bin\Debug\net6.0\Cookies Cookbook.deps.json
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\bin\Debug\net6.0\Cookies Cookbook.runtimeconfig.json
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\bin\Debug\net6.0\Cookies Cookbook.dll
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\bin\Debug\net6.0\Cookies Cookbook.pdb
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.csproj.AssemblyReference.cache
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.AssemblyInfoInputs.cache
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.AssemblyInfo.cs
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.dll
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\refint\Cookies Cookbook.dll
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.pdb
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\Cookies Cookbook.genruntimeconfig.cache
+C:\Users\Ethan Lecuona\OneDrive - SCubed\Personal\Ethan\Udemy\Ultimate C# Masterclass for 2024\Cookies Cookbook\obj\Debug\net6.0\ref\Cookies Cookbook.dll
